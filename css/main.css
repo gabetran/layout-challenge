@@ -44,6 +44,7 @@ main{
 }
 
 header{
+	position:relative;
 	padding: 1em;
 	background-color: #FA5A0F;
 	color: #FFFFFF;
